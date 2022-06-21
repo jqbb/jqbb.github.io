@@ -14,6 +14,8 @@ enhancing research in the social and behavioral sciences.</p>
 semesters to feature experts in different fields from quantitative methods. Our
 meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 
+### Upcoming talks
+
 <p>Our upcoming talks for Fall 2022 will focus on quantitative
 methods and expertise surrounding the <b>theme of diversity, equity, and
 inclusion (DEI)</b>.</p>
@@ -41,8 +43,8 @@ inclusion (DEI)</b>.</p>
   <img src="/assets/images/image010.png" width="100" />
 </p>
 
-### Upcoming talks
 
+<!--
 <ul>
   {% for post in site.posts %}
     <li>
@@ -51,7 +53,16 @@ inclusion (DEI)</b>.</p>
   {% endfor %}
 </ul>
 
-### Past talks
+-->
+
+## Previous talks
+
+### Spring 2022
+Theme: Breadth of Quantitative Methodology
+
+- January 31, 2022 \\
+Dr. Sacha Epskamp \\
+Introducing psychonetrics, an R package for (dynamic) structural equation modelling and network psychometrics
 
 ### Questions
 
