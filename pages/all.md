@@ -10,15 +10,15 @@ Dr. Sacha Epskamp \\
 
 - February 28, 2022 \\
 Dr. Michael Halquist \\
-Using Multilevel Models to Uncover Spatiotemporal Dynamics of Neural Activity (Or, How I learned to Stop Worrying and Love the MLM)
+[Using Multilevel Models to Uncover Spatiotemporal Dynamics of Neural Activity (Or, How I learned to Stop Worrying and Love the MLM)](/pages/halquist.html)
 
 - March 21, 2022 \\
 Dr. James Heckman \\
-The Econometric Approach to Causality
+[The Econometric Approach to Causality](/pages/heckman.html)
 
 - April 11, 2022 \\
 Dr. Kate Slaney\\
-Critiquing from Within: The role and importance of meta-scientific research in psychology
+[Critiquing from Within: The role and importance of meta-scientific research in psychology](/pages/slaney.html)
 
 ## Fall 2021
 Theme: Breadth of Quantitative Methodology
