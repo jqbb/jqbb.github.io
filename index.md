@@ -1,4 +1,4 @@
-<h2>Welcome!</h2>
+# Welcome!
 
 <p>The joint quantitative brownbag (joint QBB) speaker series
 started out as an initiative between two graduate quantitative methods programs
@@ -14,7 +14,7 @@ enhancing research in the social and behavioral sciences.</p>
 semesters to feature experts in different fields from quantitative methods. Our
 meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 
-### Upcoming talks
+## Upcoming talks
 
 <p>Our upcoming talks for Fall 2022 will focus on quantitative
 methods and expertise surrounding the <b>theme of diversity, equity, and
@@ -52,6 +52,17 @@ Theme: Breadth of Quantitative Methodology
 Dr. Sacha Epskamp \\
 Introducing psychonetrics, an R package for (dynamic) structural equation modelling and network psychometrics
 
-### Questions
+- February 28, 2022 \\
+Dr. Michael Halquist \\
+Using Multilevel Models to Uncover Spatiotemporal Dynamics of Neural Activity (Or, How I learned to Stop Worrying and Love the MLM)
 
-Having a question or suggestion, please contact Dr. Jolynn Pek.
+- March 21, 2022 \\
+Dr. James Heckman \\
+The Econometric Approach to Causality
+
+- April 11, 2022 \\
+Dr. Kate Slaney\\
+Critiquing from Within: The role and importance of meta-scientific research in psychology
+
+[See all previous talks](/pages/all.html)
+
