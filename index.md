@@ -31,18 +31,6 @@ inclusion (DEI)</b>.</p>
 <p>5 December 2022</p>
 
 
-<h3>University Crests of organizing programs</h3>
-
-<p float="left">
-  <img src="/assets/images/image008.png" width="100" />
-  <img src="/assets/images/image002.png" width="100" />
-  <img src="/assets/images/image006.png" width="100" />
-  <img src="/assets/images/image004.jpg" width="100" />
-  <img src="/assets/images/image001.png" width="100" />
-  <img src="/assets/images/image009.png" width="100" />
-  <img src="/assets/images/image010.png" width="100" />
-</p>
-
 
 <!--
 <ul>
