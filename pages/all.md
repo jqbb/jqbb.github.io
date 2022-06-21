@@ -25,19 +25,19 @@ Theme: Breadth of Quantitative Methodology
 
 - September 13, 2021 \\
 Dr. Edgar Merkle\\
-Some progress and problems in Bayesian SEM
+[Some progress and problems in Bayesian SEM](/pages/Merkle.html)
 
 - October 4, 2021 \\
 Dr. Hudson Golino\\
-On networks and online Russian trolls: How can the total entropy fit index be applied to optimize the number of embedded dimensions used in dynamic exploratory graph analysis, and why does it matter
+[On networks and online Russian trolls: How can the total entropy fit index be applied to optimize the number of embedded dimensions used in dynamic exploratory graph analysis, and why does it matter](/pages/Golino.html)
 
 - November 1, 2021 \\
 Dr. Felix Thoemmes\\
-Estimating bias and sensitivity of front-door models
+[Estimating bias and sensitivity of front-door models](/pages/Thoemmes.html)
 
 - November 29, 2021 \\
 Dr. Minjeong Jeon\\
-Mapping item-response interactions: A latent space approach to item response data with interaction maps
+[Mapping item-response interactions: A latent space approach to item response data with interaction maps](/pages/Jeon.html)
 
  
 
@@ -48,16 +48,16 @@ Theme: Breadth of Quantitative Methodology
 
 - January 25, 2021\\
 Dr. Wolfgang Widermann\\
-Direction Dependence Analysis: A Statistical Framework to Test the Causal Direction of Effects in Observational Data
+[Direction Dependence Analysis: A Statistical Framework to Test the Causal Direction of Effects in Observational Data](/pages/Widermann.html)
 
 - February 22, 2021\\
 Dr. David MacKinnon\\
-How do we know that our statistical methods should work? Benchmarks, Plasmodes, and Statistical Mediation Analysis
+[How do we know that our statistical methods should work? Benchmarks, Plasmodes, and Statistical Mediation Analysis](/pages/MacKinnon.html)
 
 - March 22, 2021\\
 Dr. Li Cai\\
-Reflections on the fading standardized testing requirement in college admissions
+[Reflections on the fading standardized testing requirement in college admissions](/pages/Cai.html)
 
 - April 19, 2021\\
 Dr. Riet van Bork\\
-A causal interpretation of psychometric models
+[A causal interpretation of psychometric models](/pages/Bork.html)
