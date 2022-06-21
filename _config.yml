@@ -1,3 +1,4 @@
 theme: jekyll-theme-architect
 title: Joint Quantitative Brownbag
-site.github.is_user_page: false
+github:
+  is_user_page: false
