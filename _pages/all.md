@@ -6,7 +6,7 @@ Theme: Breadth of Quantitative Methodology
 
 - January 31, 2022 \\
 Dr. Sacha Epskamp \\
-Introducing psychonetrics, an R package for (dynamic) structural equation modelling and network psychometrics
+[Introducing psychonetrics, an R package for (dynamic) structural equation modelling and network psychometrics](/pages/epskamo.html)
 
 - February 28, 2022 \\
 Dr. Michael Halquist \\
