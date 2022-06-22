@@ -46,7 +46,7 @@ inclusion (DEI)</b>.</p>
 ## Previous talks
 
 ### Spring 2022
-Theme: Breadth of Quantitative Methodology
+<b>Theme: Breadth of Quantitative Methodology</b>
 
 - January 31, 2022 \\
 Dr. Sacha Epskamp \\

@@ -2,7 +2,8 @@
 
 
 ## Spring 2022
-Theme: Breadth of Quantitative Methodology
+
+<b>Theme: Breadth of Quantitative Methodology</b>
 
 - January 31, 2022 \\
 Dr. Sacha Epskamp \\
@@ -21,7 +22,8 @@ Dr. Kate Slaney\\
 [Critiquing from Within: The role and importance of meta-scientific research in psychology](/pages/slaney.html)
 
 ## Fall 2021
-Theme: Breadth of Quantitative Methodology
+
+<b>Theme: Breadth of Quantitative Methodology</b>
 
 - September 13, 2021 \\
 Dr. Edgar Merkle\\
@@ -44,7 +46,8 @@ Dr. Minjeong Jeon\\
  
 
 ## Spring 2021
-Theme: Breadth of Quantitative Methodology
+
+<b>Theme: Breadth of Quantitative Methodology</b>
 
 - January 25, 2021\\
 Dr. Wolfgang Widermann\\
