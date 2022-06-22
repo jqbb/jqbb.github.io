@@ -14,6 +14,8 @@ enhancing research in the social and behavioral sciences.</p>
 semesters to feature experts in different fields from quantitative methods. Our
 meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 
+<p><a href="https://groups.google.com/g/jqbb">Please join mailing list/Google Group to receive semminar information.</a></p>
+
 ## Upcoming talks
 
 <p>Our upcoming talks for Fall 2022 will focus on quantitative
