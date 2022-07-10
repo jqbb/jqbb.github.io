@@ -34,9 +34,9 @@ inclusion (DEI)</b>.</p>
 
 Panel Speakers:
 
-- Jessica Logan – Vanderbilt University
-- Amanda Montoya – UCLA
-- Chris Strauss – University of North Carolina at Chapel Hill
+- [Jessica Logan](https://www.jarlogan.com/) – Vanderbilt University
+- [Amanda Montoya](https://www.psych.ucla.edu/faculty-page/akmontoya/) – UCLA
+- [Chris Strauss](https://twitter.com/ChrisLLStrauss) – University of North Carolina at Chapel Hill
 
 <!--
 <ul>
