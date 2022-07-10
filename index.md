@@ -30,7 +30,7 @@ inclusion (DEI)</b>.</p>
 
 <p>7 November 2022 - Dr. Nathan Kuncel</p>
 
-<p>5 December 2022</p>
+<p>28 November 2022</p>
 
 
 
