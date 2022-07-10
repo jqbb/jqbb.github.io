@@ -24,15 +24,19 @@ inclusion (DEI)</b>.</p>
 
 <p>For Fall 2022, we will meet on the following dates:</p>
 
-<p>12 September 2022</p>
+### 12 September 2022
 
-<p>10 October 2022</p>
+### 10 October 2022
 
-<p>7 November 2022 - Dr. Nathan Kuncel</p>
+### 7 November 2022 - Dr. Nathan Kuncel
 
-<p>28 November 2022</p>
+### 28 November 2022 - Panel on Teaching for Diversity in Quantitative Courses
 
+Panel Speakers:
 
+- Jessica Logan – Vanderbilt University
+- Amanda Montoya – UCLA
+- Chris Strauss – University of North Carolina at Chapel Hill
 
 <!--
 <ul>
