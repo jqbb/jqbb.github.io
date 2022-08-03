@@ -26,7 +26,11 @@ inclusion (DEI)</b>.</p>
 
 ### 12 September 2022
 
+[Dr. Dakota Cintron](https://profiles.ucsf.edu/dakota.cintron); University of California, San Francisco
+
 ### 10 October 2022
+
+[Dr. Viji Sathy](https://sites.google.com/view/vijisathy/home?authuser=0); University of North Carolina at Chapel Hill
 
 ### 7 November 2022 - Dr. Nathan Kuncel
 
