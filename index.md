@@ -32,7 +32,9 @@ inclusion (DEI)</b>.</p>
 
 [Dr. Viji Sathy](https://sites.google.com/view/vijisathy/home?authuser=0); University of North Carolina at Chapel Hill
 
-### 7 November 2022 - Dr. Nathan Kuncel
+### 7 November 2022  
+
+[Dr. Nathan Kuncel](https://cla.umn.edu/about/directory/profile/kunce001); University of Minnesota
 
 ### 28 November 2022 - Panel on Teaching for Diversity in Quantitative Courses
 
