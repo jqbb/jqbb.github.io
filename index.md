@@ -16,7 +16,7 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 
 <p><a href="https://groups.google.com/g/jqbb">Please join our mailing list/Google Group to receive JQBB information.</a></p>
 
-## Upcoming talks
+## Fall 2022 talks
 
 <p>Our upcoming talks for Fall 2022 will focus on quantitative
 methods and expertise surrounding the <b>theme of diversity, equity, and
