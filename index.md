@@ -28,6 +28,8 @@ inclusion (DEI)</b>.</p>
 
 [Dr. Dakota Cintron](https://profiles.ucsf.edu/dakota.cintron); University of California, San Francisco
 
+Title: [Advancing Fairness and Equity in Measurement: An Intersectional Approach to Measurement Invariance Testing](/pages/cintron.html)
+
 ### 10 October 2022
 
 [Dr. Viji Sathy](https://sites.google.com/view/vijisathy/home?authuser=0); University of North Carolina at Chapel Hill
