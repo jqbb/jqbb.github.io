@@ -1,6 +1,6 @@
 # Speakers
 
-![Viji Sathy]({{ site.baseurl }}/assets/images/20221010.jpg "Viji Sathy"){: width="150" } ![Abigail Panter]({{ site.baseurl }}/assets/images/202210102.jpg "Abigail Panter"){: width="150" }
+![Viji Sathy]({{ site.baseurl }}/assets/images/20221010.jpg "Viji Sathy"){: height="250" } ![Abigail Panter]({{ site.baseurl }}/assets/images/202210102.jpg "Abigail Panter"){: height="250" }
 
 Dr. Viji Sathy & Dr. Abigail Panter\\
 Department of Psychology and Neuroscience\\
