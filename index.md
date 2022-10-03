@@ -32,7 +32,9 @@ Title: [Advancing Fairness and Equity in Measurement: An Intersectional Approach
 
 ### 10 October 2022
 
-[Dr. Viji Sathy](https://sites.google.com/view/vijisathy/home?authuser=0); University of North Carolina at Chapel Hill
+[Dr. Viji Sathy](https://sites.google.com/view/vijisathy/home?authuser=0) and [Dr. Abigail Panter](https://college.unc.edu/contactus/panter/); University of North Carolina at Chapel Hill
+
+Title: [Using a Quantitative Mindset to Advance DEI in Higher Ed](/pages/sathy.html)
 
 ### 7 November 2022  
 
