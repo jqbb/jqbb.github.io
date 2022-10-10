@@ -25,11 +25,6 @@ inclusion (DEI)</b>.</p>
 <p>For Fall 2022, we will meet on the following dates:</p>
 
 
-### 10 October 2022
-
-[Dr. Viji Sathy](https://sites.google.com/view/vijisathy/home?authuser=0) and [Dr. Abigail Panter](https://college.unc.edu/contactus/panter/); University of North Carolina at Chapel Hill
-
-Title: [Using a Quantitative Mindset to Advance DEI in Higher Ed](/pages/sathy.html)
 
 ### 7 November 2022  
 
@@ -61,6 +56,11 @@ Panel Speakers:
 - 12 September 2022\\
 [Dr. Dakota Cintron](https://profiles.ucsf.edu/dakota.cintron); University of California, San Francisco\\
 Title: [Advancing Fairness and Equity in Measurement: An Intersectional Approach to Measurement Invariance Testing](/pages/cintron.html)
+
+
+- 10 October 2022\\
+[Dr. Viji Sathy](https://sites.google.com/view/vijisathy/home?authuser=0) and [Dr. Abigail Panter](https://college.unc.edu/contactus/panter/); University of North Carolina at Chapel Hill \\
+Title: [Using a Quantitative Mindset to Advance DEI in Higher Ed](/pages/sathy.html)
 
 ### Spring 2022
 <b>Theme: Breadth of Quantitative Methodology</b>
