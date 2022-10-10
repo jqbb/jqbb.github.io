@@ -16,7 +16,7 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 
 <p><a href="https://groups.google.com/g/jqbb">Please join our mailing list/Google Group to receive JQBB information.</a></p>
 
-## Fall 2022 talks
+## Fall 2022 upcoming talks
 
 <p>Our upcoming talks for Fall 2022 will focus on quantitative
 methods and expertise surrounding the <b>theme of diversity, equity, and
@@ -24,11 +24,6 @@ inclusion (DEI)</b>.</p>
 
 <p>For Fall 2022, we will meet on the following dates:</p>
 
-### 12 September 2022
-
-[Dr. Dakota Cintron](https://profiles.ucsf.edu/dakota.cintron); University of California, San Francisco
-
-Title: [Advancing Fairness and Equity in Measurement: An Intersectional Approach to Measurement Invariance Testing](/pages/cintron.html)
 
 ### 10 October 2022
 
@@ -60,6 +55,12 @@ Panel Speakers:
 -->
 
 ## Previous talks
+
+### Fall 2022
+
+- 12 September 2022\\
+[Dr. Dakota Cintron](https://profiles.ucsf.edu/dakota.cintron); University of California, San Francisco\\
+Title: [Advancing Fairness and Equity in Measurement: An Intersectional Approach to Measurement Invariance Testing](/pages/cintron.html)
 
 ### Spring 2022
 <b>Theme: Breadth of Quantitative Methodology</b>
