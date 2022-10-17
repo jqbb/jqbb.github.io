@@ -22,9 +22,6 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 methods and expertise surrounding the <b>theme of diversity, equity, and
 inclusion (DEI)</b>.</p>
 
-<p>For Fall 2022, we will meet on the following dates:</p>
-
-
 
 ### 7 November 2022  
 
