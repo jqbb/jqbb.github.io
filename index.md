@@ -25,7 +25,10 @@ inclusion (DEI)</b>.</p>
 
 ### 7 November 2022  
 
-[Dr. Nathan Kuncel](https://cla.umn.edu/about/directory/profile/kunce001); University of Minnesota
+[Dr. Nathan Kuncel](https://cla.umn.edu/about/directory/profile/kunce001); University of Minnesota \\
+Title: [Moving Toward Evidence Based Practice in Graduate Admissions](/pages/kuncel.html)
+
+
 
 ### 28 November 2022 - Panel on Teaching for Diversity in Quantitative Courses
 
