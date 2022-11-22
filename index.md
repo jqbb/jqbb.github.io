@@ -23,13 +23,6 @@ methods and expertise surrounding the <b>theme of diversity, equity, and
 inclusion (DEI)</b>.</p>
 
 
-### 7 November 2022  
-
-[Dr. Nathan Kuncel](https://cla.umn.edu/about/directory/profile/kunce001); University of Minnesota \\
-Title: [Moving Toward Evidence Based Practice in Graduate Admissions](/pages/kuncel.html)
-
-
-
 ### 28 November 2022 - Panel on Teaching for Diversity in Quantitative Courses
 
 Panel Speakers:
@@ -37,6 +30,8 @@ Panel Speakers:
 - [Jessica Logan](https://www.jarlogan.com/) – Vanderbilt University
 - [Amanda Montoya](https://www.psych.ucla.edu/faculty-page/akmontoya/) – UCLA
 - [Chris Strauss](https://twitter.com/ChrisLLStrauss) – University of North Carolina at Chapel Hill
+
+[More information](/pages/paneltd.html)
 
 <!--
 <ul>
@@ -52,6 +47,10 @@ Panel Speakers:
 ## Previous talks
 
 ### Fall 2022
+
+- 7 November 2022  \\
+[Dr. Nathan Kuncel](https://cla.umn.edu/about/directory/profile/kunce001); University of Minnesota \\
+Title: [Moving Toward Evidence Based Practice in Graduate Admissions](/pages/kuncel.html)
 
 - 12 September 2022\\
 [Dr. Dakota Cintron](https://profiles.ucsf.edu/dakota.cintron); University of California, San Francisco\\
