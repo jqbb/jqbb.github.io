@@ -46,8 +46,8 @@ inclusion (DEI)</b>.</p>
 
 - 28 November 2022 - [Panel on Teaching for Diversity in Quantitative Courses](/pages/paneltd.html)\\
 Panel Speakers:\\
-  - [Jessica Logan](https://www.jarlogan.com/) – Vanderbilt University
-  - [Amanda Montoya](https://www.psych.ucla.edu/faculty-page/akmontoya/) – UCLA
+  - [Dr. Jessica Logan](https://www.jarlogan.com/) – Vanderbilt University
+  - [Dr. Amanda Montoya](https://www.psych.ucla.edu/faculty-page/akmontoya/) – UCLA
   - [Chris Strauss](https://twitter.com/ChrisLLStrauss) – University of North Carolina at Chapel Hill
 
 
