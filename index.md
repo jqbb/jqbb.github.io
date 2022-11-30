@@ -16,22 +16,18 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 
 <p><a href="https://groups.google.com/g/jqbb">Please join our mailing list/Google Group to receive JQBB information.</a> Please email us directly if you don't have a Google account.</p>
 
-## Fall 2022 upcoming talks
+## Spring 2023 upcoming talks
 
-<p>Our upcoming talks for Fall 2022 will focus on quantitative
+<p>Our upcoming talks for Spring 2023 will continue focusing on quantitative
 methods and expertise surrounding the <b>theme of diversity, equity, and
 inclusion (DEI)</b>.</p>
 
+### Upcoming talks
 
-### 28 November 2022 - Panel on Teaching for Diversity in Quantitative Courses
-
-Panel Speakers:
-
-- [Jessica Logan](https://www.jarlogan.com/) – Vanderbilt University
-- [Amanda Montoya](https://www.psych.ucla.edu/faculty-page/akmontoya/) – UCLA
-- [Chris Strauss](https://twitter.com/ChrisLLStrauss) – University of North Carolina at Chapel Hill
-
-[More information](/pages/paneltd.html)
+- 30 January 2023: Clare Evans
+- 27 February 2023: Soojin Park
+- 27 March 2023: Lisa Wijsen
+- 17 April 2023: Rachel Fouladi
 
 <!--
 <ul>
@@ -47,6 +43,13 @@ Panel Speakers:
 ## Previous talks
 
 ### Fall 2022
+
+- 28 November 2022 - [Panel on Teaching for Diversity in Quantitative Courses](/pages/paneltd.html)\\
+Panel Speakers:\\
+  - [Jessica Logan](https://www.jarlogan.com/) – Vanderbilt University
+  - [Amanda Montoya](https://www.psych.ucla.edu/faculty-page/akmontoya/) – UCLA
+  - [Chris Strauss](https://twitter.com/ChrisLLStrauss) – University of North Carolina at Chapel Hill
+
 
 - 7 November 2022  \\
 [Dr. Nathan Kuncel](https://cla.umn.edu/about/directory/profile/kunce001); University of Minnesota \\
