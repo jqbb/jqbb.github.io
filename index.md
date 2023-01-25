@@ -24,7 +24,10 @@ inclusion (DEI)</b>.</p>
 
 ### Upcoming talks
 
-- 30 January 2023: Clare Evans
+- 30 January 2023\\
+[Dr. Clare Evans](https://www.clarerevans.com/)\\
+[Multilevel Models of Intersectional Inequalities](/pages/evans.html)
+
 - 27 February 2023: Soojin Park
 - 27 March 2023: Lisa Wijsen
 - 17 April 2023: Rachel Fouladi
