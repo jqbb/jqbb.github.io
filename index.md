@@ -25,9 +25,7 @@ inclusion (DEI)</b>.</p>
 ### Upcoming talks
 
 
-- 27 February 2023\\
-[Dr. Soojin Park](https://profiles.ucr.edu/app/home/profile/soojinp) \\
-[Estimation and Sensitivity Analysis for Causal Decomposition: Assessing Robustness Toward Omitted Variable Bias](/pages/spark.html)
+
 
 - 27 March 2023: Lisa Wijsen
 - 17 April 2023: Rachel Fouladi
@@ -46,6 +44,10 @@ inclusion (DEI)</b>.</p>
 ## Previous talks
 
 ### Spring 2023
+
+- 27 February 2023\\
+[Dr. Soojin Park](https://profiles.ucr.edu/app/home/profile/soojinp) \\
+[Estimation and Sensitivity Analysis for Causal Decomposition: Assessing Robustness Toward Omitted Variable Bias](/pages/spark.html)
 
 - 30 January 2023\\
 [Dr. Clare Evans](https://www.clarerevans.com/)\\
