@@ -24,10 +24,8 @@ inclusion (DEI)</b>.</p>
 
 ### Upcoming talks
 
-
-
-
-- 27 March 2023: Lisa Wijsen
+- 27 March 2023\\ [Dr. Lisa Wijsen](https://www.uva.nl/en/profile/w/i/l.d.wijsen/l.d.wijsen.html?cb) \\
+[Values in Psychometrics](pages/wijsen.html)
 - 17 April 2023: Rachel Fouladi
 
 <!--
