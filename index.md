@@ -16,18 +16,9 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 
 <p><a href="https://groups.google.com/g/jqbb">Please join our mailing list/Google Group to receive JQBB information.</a> Please email us directly if you don't have a Google account.</p>
 
-## Spring 2023 upcoming talks
+## Fall 2023 upcoming talks
 
-<p>Our upcoming talks for Spring 2023 will continue focusing on quantitative
-methods and expertise surrounding the <b>theme of diversity, equity, and
-inclusion (DEI)</b>.</p>
-
-### Upcoming talks
-
-- 27 March 2023 \\ 
-[Dr. Lisa Wijsen](https://www.uva.nl/en/profile/w/i/l.d.wijsen/l.d.wijsen.html?cb) \\
-[Values in Psychometrics](pages/wijsen.html)
-- 17 April 2023: Rachel Fouladi
+<p>TBA</b>.</p>
 
 <!--
 <ul>
@@ -43,6 +34,12 @@ inclusion (DEI)</b>.</p>
 ## Previous talks
 
 ### Spring 2023
+
+- 17 April 2023: Rachel Fouladi (Cancelled)
+
+- 27 March 2023 \\ 
+[Dr. Lisa Wijsen](https://www.uva.nl/en/profile/w/i/l.d.wijsen/l.d.wijsen.html?cb) \\
+[Values in Psychometrics](pages/wijsen.html)
 
 - 27 February 2023\\
 [Dr. Soojin Park](https://profiles.ucr.edu/app/home/profile/soojinp) \\
