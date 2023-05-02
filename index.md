@@ -18,7 +18,7 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 
 ## Fall 2023 upcoming talks
 
-<p>TBA</b>.</p>
+<p>TBA</p>
 
 <!--
 <ul>
