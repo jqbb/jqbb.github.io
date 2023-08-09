@@ -25,8 +25,6 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 <li>27- November 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Melanie Wall (DEI)</li>
 </ul>
 
-<p>TBA</p>
-
 <!--
 <ul>
   {% for post in site.posts %}
@@ -44,7 +42,7 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 
 - 17 April 2023: Rachel Fouladi (Cancelled)
 
-- 27 March 2023 \\ 
+- 27 March 2023\\
 [Dr. Lisa Wijsen](https://www.uva.nl/en/profile/w/i/l.d.wijsen/l.d.wijsen.html?cb) \\
 [Values in Psychometrics](pages/wijsen.html)
 
