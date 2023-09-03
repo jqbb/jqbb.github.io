@@ -18,8 +18,11 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 
 ## Fall 2023 upcoming talks
 
+- 27 March 2023\\
+[Dr. Xiaoming Zhai](https://people.coe.uga.edu/xiaoming-zhai/) \\
+[AI and Formative Assessment: The Train Has Left the Station](pages/zhai.html)
+
 <ul>
-<li>11-September-2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Xiaoming Zhai (Machine Learning)</li>
 <li>9-October 2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Beth Tipton (Causal Inference and Research Design)</li>
 <li>6-November 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mijke Rhemtulla (Measurement)</li>
 <li>27- November 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Melanie Wall (DEI)</li>
