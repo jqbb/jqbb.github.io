@@ -1,6 +1,10 @@
 # Speaker
 
-Dr. Elizabeth Tipton \\ Professor of Statistics and Data Science \\ Northwestern University
+![Dr. Elizabeth Tipton](https://statistics.northwestern.edu/people/elizabethtipton168x210.jpg){: width="150" }
+
+Dr. Elizabeth Tipton \\ 
+Professor of Statistics and Data Science \\ 
+Northwestern University
 
 Dr. Tipton is a Professor of Statistics and Data Science, the Co-Director of the Statistics for Evidence-Based Policy and Practice (STEPP) Center, and a Faculty Fellow in the Institute for Policy Research at Northwestern University. Dr. Tipton's research focuses on the design and analysis of field experiments, with a particular focus on issues of external validity and generalizability in experiments; meta-analysis, particularly of dependent effect sizes; and the use of (cluster) robust variance estimation. Dr. Tipton earned her PhD in Statistics from Northwestern University in 2011. In 2005, she earned an M.A. in Sociology from the University of Chicago and in 2001 a B.A. in Mathematics from Transylvania University in Lexington, Kentucky. Prior to returning to Northwestern University, she was a member of the faculty at Teachers College, Columbia University for seven years.
 
