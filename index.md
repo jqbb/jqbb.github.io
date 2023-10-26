@@ -18,13 +18,12 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 
 ## Fall 2023 upcoming talks
 
+- 6 November 2023\\
+[Dr. Mijke Rhemtulla](https://psychology.ucdavis.edu/people/mijke) \\
+[Consequences of Mistaking the Measurement Model in SEM, Alternatives to Common Factors, and a Method for Model Selection](pages/rhemtulla.html)
 
-- 9 October 2023\\
-[Dr. Elizabeth Tipton](https://www.bethtipton.com/) \\
-[Generalizability and heterogeneity: Designing your study when treatment effects vary](pages/tipton.html)
 
 <ul>
-<li>6-November 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mijke Rhemtulla (Measurement)</li>
 <li>27- November 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Melanie Wall (DEI)</li>
 </ul>
 
@@ -40,6 +39,10 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 -->
 
 ## Previous talks
+
+- 9 October 2023\\
+[Dr. Elizabeth Tipton](https://www.bethtipton.com/) \\
+[Generalizability and heterogeneity: Designing your study when treatment effects vary](pages/tipton.html)
 
 - 11 September 2023\\
 [Dr. Xiaoming Zhai](https://people.coe.uga.edu/xiaoming-zhai/) \\
