@@ -18,13 +18,21 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 
 ## Fall 2023 upcoming talks
 
-- 6 November 2023\\
-[Dr. Mijke Rhemtulla](https://psychology.ucdavis.edu/people/mijke) \\
-[Consequences of Mistaking the Measurement Model in SEM, Alternatives to Common Factors, and a Method for Model Selection](pages/rhemtulla.html)
-
-
 <ul>
 <li>27- November 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Melanie Wall (DEI)</li>
+</ul>
+
+## Spring 2024 upcoming talks
+
+<ul>
+<li>Jan 29 - Ellen Hamaker&nbsp;&nbsp;<a href="https://www.uu.nl/staff/ELHamaker" target="_blank">https://www.uu.nl/staff/ELHamaker</a></li>
+
+<li>Feb 26 - Emilio Ferrer&nbsp;<a href="https://psychology.ucdavis.edu/people/eferrer" target="_blank">https://psychology.ucdavis.edu/people/eferrer</a></li>
+
+<li>March 25 - Yves Rosseel&nbsp;<a href="https://users.ugent.be/~yrosseel/" target="_blank">https://users.ugent.be/~yrosseel/</a></li>
+
+<li>April 15 - Lily Hu&nbsp;<a href="https://philosophy.yale.edu/people/lily-hu" target="_blank">https://philosophy.yale.edu/people/lily-hu</a></li>
+
 </ul>
 
 <!--
@@ -39,6 +47,9 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 -->
 
 ## Previous talks
+- 6 November 2023\\
+[Dr. Mijke Rhemtulla](https://psychology.ucdavis.edu/people/mijke) \\
+[Consequences of Mistaking the Measurement Model in SEM, Alternatives to Common Factors, and a Method for Model Selection](pages/rhemtulla.html)
 
 - 9 October 2023\\
 [Dr. Elizabeth Tipton](https://www.bethtipton.com/) \\
