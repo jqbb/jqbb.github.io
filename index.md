@@ -16,11 +16,6 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 
 <p><a href="https://groups.google.com/g/jqbb">Please join our mailing list/Google Group to receive JQBB information.</a> Please email us directly if you don't have a Google account.</p>
 
-## Fall 2023 upcoming talks
-
-- 27 November 2023\\
-[Dr. Melanie Wall](https://www.publichealth.columbia.edu/profile/melanie-wall-phd) \\
-[Incorporating intersectionality using latent class analysis within health contexts](pages/wall.html)
 
 ## Spring 2024 upcoming talks
 
@@ -47,6 +42,10 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 -->
 
 ## Previous talks
+- 27 November 2023\\
+[Dr. Melanie Wall](https://www.publichealth.columbia.edu/profile/melanie-wall-phd) \\
+[Incorporating intersectionality using latent class analysis within health contexts](pages/wall.html)
+
 - 6 November 2023\\
 [Dr. Mijke Rhemtulla](https://psychology.ucdavis.edu/people/mijke) \\
 [Consequences of Mistaking the Measurement Model in SEM, Alternatives to Common Factors, and a Method for Model Selection](pages/rhemtulla.html)
