@@ -45,6 +45,8 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 -->
 
 ## Previous talks
+
+### Fall 2023
 - 27 November 2023\\
 [Dr. Melanie Wall](https://www.publichealth.columbia.edu/profile/melanie-wall-phd) \\
 [Incorporating intersectionality using latent class analysis within health contexts](pages/wall.html)
