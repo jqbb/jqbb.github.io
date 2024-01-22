@@ -19,6 +19,10 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 
 ## Spring 2024 upcoming talks
 
+- Jan 29, 2024\\
+[Dr. Ellen Hamaker](https://www.uu.nl/staff/ELHamaker) \\
+[Reflections on the Within-Between Dispute in Cross-Lagged Panel Research](pages/hamaker.html)
+
 <ul>
 <li>Jan 29 - Ellen Hamaker&nbsp;&nbsp;<a href="https://www.uu.nl/staff/ELHamaker" target="_blank">https://www.uu.nl/staff/ELHamaker</a></li>
 
