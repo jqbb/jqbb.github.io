@@ -24,7 +24,6 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 [Reflections on the Within-Between Dispute in Cross-Lagged Panel Research](pages/hamaker.html)
 
 <ul>
-<li>Jan 29 - Ellen Hamaker&nbsp;&nbsp;<a href="https://www.uu.nl/staff/ELHamaker" target="_blank">https://www.uu.nl/staff/ELHamaker</a></li>
 
 <li>Feb 26 - Emilio Ferrer&nbsp;<a href="https://psychology.ucdavis.edu/people/eferrer" target="_blank">https://psychology.ucdavis.edu/people/eferrer</a></li>
 
