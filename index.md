@@ -19,13 +19,11 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 
 ## Spring 2024 upcoming talks
 
-- Jan 29, 2024\\
-[Dr. Ellen Hamaker](https://www.uu.nl/staff/ELHamaker) \\
-[Reflections on the Within-Between Dispute in Cross-Lagged Panel Research](pages/hamaker.html)
+- Feb 26, 2024\\
+[Dr. Emilio Ferrer](https://psychology.ucdavis.edu/people/eferrer) \\
+[ Intra- and Inter-Individual Variability in Psychological Processes in Dyadic Interactions](pages/ferrer.html)
 
 <ul>
-
-<li>Feb 26 - Emilio Ferrer&nbsp;<a href="https://psychology.ucdavis.edu/people/eferrer" target="_blank">https://psychology.ucdavis.edu/people/eferrer</a></li>
 
 <li>March 25 - Yves Rosseel&nbsp;<a href="https://users.ugent.be/~yrosseel/" target="_blank">https://users.ugent.be/~yrosseel/</a></li>
 
@@ -45,6 +43,11 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 -->
 
 ## Previous talks
+### Spring 2024
+- Jan 29, 2024\\
+[Dr. Ellen Hamaker](https://www.uu.nl/staff/ELHamaker) \\
+[Reflections on the Within-Between Dispute in Cross-Lagged Panel Research](pages/hamaker.html)
+
 
 ### Fall 2023
 - 27 November 2023\\
