@@ -19,13 +19,11 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 
 ## Spring 2024 upcoming talks
 
-- Feb 26, 2024\\
-[Dr. Emilio Ferrer](https://psychology.ucdavis.edu/people/eferrer) \\
-[ Intra- and Inter-Individual Variability in Psychological Processes in Dyadic Interactions](pages/ferrer.html)
+- March 25, 2024\\
+[Dr. Yves Rosseel](https://users.ugent.be/~yrosseel/) \\
+[The structural-after-measurement (SAM) approach to SEM](pages/rosseel.html)
 
 <ul>
-
-<li>March 25 - Yves Rosseel&nbsp;<a href="https://users.ugent.be/~yrosseel/" target="_blank">https://users.ugent.be/~yrosseel/</a></li>
 
 <li>April 15 - Lily Hu&nbsp;<a href="https://philosophy.yale.edu/people/lily-hu" target="_blank">https://philosophy.yale.edu/people/lily-hu</a></li>
 
@@ -44,6 +42,11 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 
 ## Previous talks
 ### Spring 2024
+
+- Feb 26, 2024\\
+[Dr. Emilio Ferrer](https://psychology.ucdavis.edu/people/eferrer) \\
+[ Intra- and Inter-Individual Variability in Psychological Processes in Dyadic Interactions](pages/ferrer.html)
+
 - Jan 29, 2024\\
 [Dr. Ellen Hamaker](https://www.uu.nl/staff/ELHamaker) \\
 [Reflections on the Within-Between Dispute in Cross-Lagged Panel Research](pages/hamaker.html)
