@@ -19,15 +19,9 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 
 ## Spring 2024 upcoming talks
 
-- March 25, 2024\\
-[Dr. Yves Rosseel](https://users.ugent.be/~yrosseel/) \\
-[The structural-after-measurement (SAM) approach to SEM](pages/rosseel.html)
-
-<ul>
-
-<li>April 15 - Lily Hu&nbsp;<a href="https://philosophy.yale.edu/people/lily-hu" target="_blank">https://philosophy.yale.edu/people/lily-hu</a></li>
-
-</ul>
+- April 15, 2024\\
+[Dr. Lily Hu](https://philosophy.yale.edu/people/lily-hu) \\
+[Equality, Identity, and Causality](pages/hu.html)
 
 <!--
 <ul>
@@ -42,6 +36,10 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 
 ## Previous talks
 ### Spring 2024
+
+- March 25, 2024\\
+[Dr. Yves Rosseel](https://users.ugent.be/~yrosseel/) \\
+[The structural-after-measurement (SAM) approach to SEM](pages/rosseel.html)
 
 - Feb 26, 2024\\
 [Dr. Emilio Ferrer](https://psychology.ucdavis.edu/people/eferrer) \\
