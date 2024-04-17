@@ -14,7 +14,7 @@ enhancing research in the social and behavioral sciences.</p>
 semesters to feature experts in different fields from quantitative methods. Our
 meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 
-<p><a href="https://groups.google.com/g/jqbb">Please join our mailing list/Google Group to receive JQBB information.</a> Please email us directly if you don't have a Google account.</p>
+<p><a href="https://groups.google.com/g/jqbb">Please join our mailing list/Google Group to receive JQBB information.</a> Please brief introduce yourself for verification purpose. Email us directly if you don't have a Google account.</p>
 
 
 ## Spring 2024 upcoming talks
