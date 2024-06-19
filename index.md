@@ -21,12 +21,12 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 
 <b>Mondays from 12:30-1:30pm ET</b>
 
-- 9 September 2024 – Victoria Stodden (https://www.stodden.net/)
+- 9 September 2024 – Victoria Stodden https://www.stodden.net/
 - 7 October 2024
 - 4 November 2024
 - 25 November 2024
 
- ## Tentative Spring 2025 Schedule
+## Tentative Spring 2025 Schedule
 
 - 27 January 2025
 - 24 February 2025
