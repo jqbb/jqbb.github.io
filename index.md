@@ -17,11 +17,21 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 <p><a href="https://groups.google.com/g/jqbb">Please join our mailing list/Google Group to receive JQBB information.</a> Please brief introduce yourself for verification purpose. Email us directly if you don't have a Google account.</p>
 
 
-## Spring 2024 upcoming talks
+## Fall 2024 upcoming talks
 
-- April 15, 2024\\
-[Dr. Lily Hu](https://philosophy.yale.edu/people/lily-hu) \\
-[Equality, Identity, and Causality](pages/hu.html)
+<b>Mondays from 12:30-1:30pm ET</b>
+
+- 9 September 2024 – Victoria Stodden (https://www.stodden.net/)
+- 7 October 2024
+- 4 November 2024
+- 25 November 2024
+
+ ## Tentative Spring 2025 Schedule
+
+- 27 January 2025
+- 24 February 2025
+- 24 March 2025
+- 14 April 2025
 
 <!--
 <ul>
@@ -36,6 +46,9 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 
 ## Previous talks
 ### Spring 2024
+- April 15, 2024\\
+[Dr. Lily Hu](https://philosophy.yale.edu/people/lily-hu) \\
+[Equality, Identity, and Causality](pages/hu.html)
 
 - March 25, 2024\\
 [Dr. Yves Rosseel](https://users.ugent.be/~yrosseel/) \\
