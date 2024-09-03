@@ -22,19 +22,19 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 <b>Mondays from 12:30-1:30pm ET</b>
 
 - 9 September 2024 \\
-Victoria Stodden https://www.stodden.net/ \\
+[Dr. Victoria Stodden](https://www.stodden.net/) \\
 [AI-enabled Discovery: The Digital Scholarly Record](pages/stodden.html)
 
-- 7 October 2024 - Susu Zhang https://psychology.illinois.edu/directory/profile/szhan105
-- 4 November 2024 - Yi Feng https://psych.ucla.edu/faculty-page/yifeng/
-- 25 November 2024 - Feng Ji https://discover.research.utoronto.ca/49686-feng-ji
+- 7 October 2024 - Dr. Susu Zhang https://psychology.illinois.edu/directory/profile/szhan105
+- 4 November 2024 - Dr. Yi Feng https://psych.ucla.edu/faculty-page/yifeng/
+- 25 November 2024 - Dr. Feng Ji https://discover.research.utoronto.ca/49686-feng-ji
 
 ## Tentative Spring 2025 Schedule
 
-- 27 January 2025 - Klaas Sitjsma
-- 24 February 2025 - John Jackson
-- 24 March 2025 - Kylie Anglin
-- 14 April 2025 - Maarten Marsman
+- 27 January 2025 - Dr. Klaas Sitjsma
+- 24 February 2025 - Dr. John Jackson
+- 24 March 2025 - Dr. Kylie Anglin
+- 14 April 2025 - Dr. Maarten Marsman
 
 <!--
 <ul>
