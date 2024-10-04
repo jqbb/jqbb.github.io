@@ -25,7 +25,10 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 [Dr. Victoria Stodden](https://www.stodden.net/) \\
 [AI-enabled Discovery: The Digital Scholarly Record](pages/stodden.html)
 
-- 7 October 2024 - Dr. Susu Zhang https://psychology.illinois.edu/directory/profile/szhan105
+- 7 October 2024 \\
+[Dr. Susu Zhang](https://psychology.illinois.edu/directory/profile/szhan105) \\
+[Informing Educational Measurement with Test-Taking Process Data](pages/szhang.html)
+
 - 4 November 2024 - Dr. Yi Feng https://psych.ucla.edu/faculty-page/yifeng/
 - 25 November 2024 - Dr. Feng Ji https://discover.research.utoronto.ca/49686-feng-ji
 
