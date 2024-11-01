@@ -29,7 +29,8 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 [Dr. Susu Zhang](https://psychology.illinois.edu/directory/profile/szhan105) \\
 [Informing Educational Measurement with Test-Taking Process Data](pages/szhang.html)
 
-- 4 November 2024 - Dr. Yi Feng https://psych.ucla.edu/faculty-page/yifeng/
+- 4 November 2024 - [Dr. Yi Feng](https://psych.ucla.edu/faculty-page/yifeng/)\\
+[Ask What You Mean and Mean What You Ask: Strategic Reparameterization of Latent Growth Curve Models](pages/yifeng.html)
 - 25 November 2024 - Dr. Feng Ji https://discover.research.utoronto.ca/49686-feng-ji
 
 ## Tentative Spring 2025 Schedule
