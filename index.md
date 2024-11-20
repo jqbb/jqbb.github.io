@@ -31,7 +31,9 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 
 - 4 November 2024 - [Dr. Yi Feng](https://psych.ucla.edu/faculty-page/yifeng/)\\
 [Ask What You Mean and Mean What You Ask: Strategic Reparameterization of Latent Growth Curve Models](pages/yifeng.html)
-- 25 November 2024 - Dr. Feng Ji https://discover.research.utoronto.ca/49686-feng-ji
+
+- 25 November 2024 - [Dr. Feng Ji](https://discover.research.utoronto.ca/49686-feng-ji)\\
+[Valid standard errors for Bayesian quantile regression with clustered and independent data](pages/fji.html)
 
 ## Tentative Spring 2025 Schedule
 
