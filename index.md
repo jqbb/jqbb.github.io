@@ -37,7 +37,7 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 
 ## Tentative Spring 2025 Schedule
 
-- 27 January 2025 - Dr. Klaas Sitjsma
+- 27 January 2025 - Dr. Klaas Sijtsma
 - 24 February 2025 - Dr. John Jackson
 - 24 March 2025 - Dr. Kylie Anglin
 - 14 April 2025 - Dr. Maarten Marsman
