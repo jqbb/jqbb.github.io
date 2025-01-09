@@ -17,25 +17,9 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 <p><a href="https://groups.google.com/g/jqbb">Please join our mailing list/Google Group to receive JQBB information.</a> Please brief introduce yourself for verification purpose. Email us directly if you don't have a Google account.</p>
 
 
-## Fall 2024 upcoming talks
+## Spring 2025 upcoming talks
 
 <b>Mondays from 12:30-1:30pm ET</b>
-
-- 9 September 2024 \\
-[Dr. Victoria Stodden](https://www.stodden.net/) \\
-[AI-enabled Discovery: The Digital Scholarly Record](pages/stodden.html)
-
-- 7 October 2024 \\
-[Dr. Susu Zhang](https://psychology.illinois.edu/directory/profile/szhan105) \\
-[Informing Educational Measurement with Test-Taking Process Data](pages/szhang.html)
-
-- 4 November 2024 - [Dr. Yi Feng](https://psych.ucla.edu/faculty-page/yifeng/)\\
-[Ask What You Mean and Mean What You Ask: Strategic Reparameterization of Latent Growth Curve Models](pages/yifeng.html)
-
-- 25 November 2024 - [Dr. Feng Ji](https://discover.research.utoronto.ca/49686-feng-ji)\\
-[Valid standard errors for Bayesian quantile regression with clustered and independent data](pages/fji.html)
-
-## Tentative Spring 2025 Schedule
 
 - 27 January 2025 - Dr. Klaas Sijtsma
 - 24 February 2025 - Dr. John Jackson
@@ -54,6 +38,22 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 -->
 
 ## Previous talks
+
+## Fall 2024 
+- 9 September 2024 \\
+[Dr. Victoria Stodden](https://www.stodden.net/) \\
+[AI-enabled Discovery: The Digital Scholarly Record](pages/stodden.html)
+
+- 7 October 2024 \\
+[Dr. Susu Zhang](https://psychology.illinois.edu/directory/profile/szhan105) \\
+[Informing Educational Measurement with Test-Taking Process Data](pages/szhang.html)
+
+- 4 November 2024 - [Dr. Yi Feng](https://psych.ucla.edu/faculty-page/yifeng/)\\
+[Ask What You Mean and Mean What You Ask: Strategic Reparameterization of Latent Growth Curve Models](pages/yifeng.html)
+
+- 25 November 2024 - [Dr. Feng Ji](https://discover.research.utoronto.ca/49686-feng-ji)\\
+[Valid standard errors for Bayesian quantile regression with clustered and independent data](pages/fji.html)
+
 ### Spring 2024
 - April 15, 2024\\
 [Dr. Lily Hu](https://philosophy.yale.edu/people/lily-hu) \\
