@@ -21,12 +21,14 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 
 <b>Mondays from 12:30-1:30pm ET</b>
 
+- 24 February 2025 \\
+[Dr. John Jackson](https://publichealth.jhu.edu/faculty/3410/john-w-jackson)\\
+[Evaluating Effects of Interventions on Disparity in Health and Healthcare Decisions](pages/jackson.html)
+- 24 March 2025 - Dr. Kylie Anglin
+- 14 April 2025 - Dr. Maarten Marsman
 - 27 January 2025 \\
 [Dr. Klaas Sijtsma](https://www.tilburguniversity.edu/about/history-and-academic-heritage/klaas-sijtsma) \\
 [Pros and Cons of the Simple Sum Score on Tests and Questionnaires](pages/sijtsma.html)
-- 24 February 2025 - Dr. John Jackson
-- 24 March 2025 - Dr. Kylie Anglin
-- 14 April 2025 - Dr. Maarten Marsman
 
 <!--
 <ul>
