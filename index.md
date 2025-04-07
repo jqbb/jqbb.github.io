@@ -21,11 +21,12 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 
 <b>Mondays from 12:30-1:30pm ET</b>
 
-
+- 14 April 2025 \\
+[Dr. Maarten Marsman](https://maartenmarsman.com/) \\
+[Bayesian Hypothesis Tests for the Robust Analysis of Networks](pages/marsman.html)
 - 24 March 2025 \\
 [Dr. Kylie Anglin](https://education.uconn.edu/person/kylie-anglin/)\\
 [Large Language Models and the Measurement of Psychological Constructs: Zero-Shot, Few-Shot, and Fine-Tuning Approaches](pages/anglin.html)
-- 14 April 2025 - Dr. Maarten Marsman
 - 27 January 2025 \\
 [Dr. Klaas Sijtsma](https://www.tilburguniversity.edu/about/history-and-academic-heritage/klaas-sijtsma) \\
 [Pros and Cons of the Simple Sum Score on Tests and Questionnaires](pages/sijtsma.html)
