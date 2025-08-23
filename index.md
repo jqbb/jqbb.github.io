@@ -26,7 +26,7 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 - 3 November 2025
 - 24 November 2025
 
-<!--
+
 <ul>
   {% for post in site.posts %}
     <li>
@@ -35,7 +35,7 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
   {% endfor %}
 </ul>
 
--->
+
 
 ## Previous talks
 ## Spring 2025
