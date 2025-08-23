@@ -1,5 +1,40 @@
 # Previous Talks
 
+### Spring 2024
+- April 15, 2024\\
+[Dr. Lily Hu](https://philosophy.yale.edu/people/lily-hu) \\
+[Equality, Identity, and Causality](pages/hu.html)
+
+- March 25, 2024\\
+[Dr. Yves Rosseel](https://users.ugent.be/~yrosseel/) \\
+[The structural-after-measurement (SAM) approach to SEM](pages/rosseel.html)
+
+- Feb 26, 2024\\
+[Dr. Emilio Ferrer](https://psychology.ucdavis.edu/people/eferrer) \\
+[ Intra- and Inter-Individual Variability in Psychological Processes in Dyadic Interactions](pages/ferrer.html)
+
+- Jan 29, 2024\\
+[Dr. Ellen Hamaker](https://www.uu.nl/staff/ELHamaker) \\
+[Reflections on the Within-Between Dispute in Cross-Lagged Panel Research](pages/hamaker.html)
+
+
+### Fall 2023
+- 27 November 2023\\
+[Dr. Melanie Wall](https://www.publichealth.columbia.edu/profile/melanie-wall-phd) \\
+[Incorporating intersectionality using latent class analysis within health contexts](pages/wall.html)
+
+- 6 November 2023\\
+[Dr. Mijke Rhemtulla](https://psychology.ucdavis.edu/people/mijke) \\
+[Consequences of Mistaking the Measurement Model in SEM, Alternatives to Common Factors, and a Method for Model Selection](pages/rhemtulla.html)
+
+- 9 October 2023\\
+[Dr. Elizabeth Tipton](https://www.bethtipton.com/) \\
+[Generalizability and heterogeneity: Designing your study when treatment effects vary](pages/tipton.html)
+
+- 11 September 2023\\
+[Dr. Xiaoming Zhai](https://people.coe.uga.edu/xiaoming-zhai/) \\
+[AI and Formative Assessment: The Train Has Left the Station](pages/zhai.html)
+
 ### Spring 2023
 
 <b>Theme: Diversity, equity, and inclusion (DEI)</b>
