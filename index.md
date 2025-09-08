@@ -25,8 +25,8 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 [Dr. Teague Henry](https://datascience.virginia.edu/people/teague-henry) \\
 ["How can constructs be real if our eyes aren't real?": A modest proposal for psychological construct theory](pages/henry.html)
 - 6 October 2025 - [Dr. Josh Gilbert](https://datascience.meei.harvard.edu/teams/josh-gilbert/)
-- 3 November 2025
-- 24 November 2025
+- 3 November 2025 - [Dr. Alexander Robitzsch](https://www.leibniz-ipn.de/en/the-ipn/about-us/staff/alexander-robitzsch)
+- 24 November 2025 - [Dr. Chris Urban](https://web.uri.edu/psychology/meet/christopher-urban/)
 
 ## Announcements
 
