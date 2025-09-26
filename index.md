@@ -28,6 +28,13 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 - 3 November 2025 - [Dr. Alexander Robitzsch](https://www.leibniz-ipn.de/en/the-ipn/about-us/staff/alexander-robitzsch)
 - 24 November 2025 - [Dr. Chris Urban](https://web.uri.edu/psychology/meet/christopher-urban/)
 
+## Spring 2026 Schedule
+
+- 2 February 2026 — [Dr. Christian Geiser](https://christiangeiser.com/)
+- 23 February 2026 - [Dr. Denny Borsboom](https://dennyborsboom.com/)
+- 23 March 2026 — [Dr. Qiwei He](https://gufaculty360.georgetown.edu/s/contact/0031Q00002UXuaSQAT/qiwei-he)
+- 20 April 2026 — [Dr. Christian Ringle](https://www.tuhh.de/mds/team/prof-dr-c-m-ringle)
+
 ## Announcements
 
 <ul>
