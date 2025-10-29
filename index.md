@@ -27,7 +27,7 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 - 6 October 2025\\
 [Dr. Josh Gilbert](https://datascience.meei.harvard.edu/teams/josh-gilbert/)\\
 [Estimating Heterogeneous Treatment Effects with Item-Level data: Insights from Item Response Theory](pages/gilbert.html)
-- 3 November 2025 - [Dr. Alexander Robitzsch](https://www.leibniz-ipn.de/en/the-ipn/about-us/staff/alexander-robitzsch)
+- 3 November 2025 - [Dr. Alexander Robitzsch](https://www.leibniz-ipn.de/en/the-ipn/about-us/staff/alexander-robitzsch)\\[Estimation of Standard Error, Linking Error, and Total Error for Linking Methods in the 2PL Model](pages/robitzsch.html)
 - 24 November 2025 - [Dr. Chris Urban](https://web.uri.edu/psychology/meet/christopher-urban/)
 
 ## Spring 2026 Schedule
