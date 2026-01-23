@@ -17,9 +17,16 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 <p><a href="https://groups.google.com/g/jqbb">Please join our mailing list/Google Group to receive JQBB information.</a> Please brief introduce yourself for verification purpose. Email us directly if you don't have a Google account.</p>
 
 
-## Fall 2025 upcoming talks
+## Spring 2026 Schedule
 
 <b>Mondays from 12:30-1:30pm ET</b>
+
+- 2 February 2026 — [Dr. Christian Geiser](https://christiangeiser.com/)\ [A Conversation with Dr. Christian Geiser on his journey as a quantitative psychologist](pages/geiser.html)
+- 23 February 2026 - [Dr. Denny Borsboom](https://dennyborsboom.com/)
+- 23 March 2026 — [Dr. Qiwei He](https://gufaculty360.georgetown.edu/s/contact/0031Q00002UXuaSQAT/qiwei-he)
+- 20 April 2026 — [Dr. Christian Ringle](https://www.tuhh.de/mds/team/prof-dr-c-m-ringle)
+
+## Fall 2025 talks
 
 - 8 September 2025\\
 [Dr. Teague Henry](https://datascience.virginia.edu/people/teague-henry) \\
@@ -34,12 +41,7 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 [Dr. Chris Urban](https://web.uri.edu/psychology/meet/christopher-urban/) \
 [Deep Psychometrics: Modeling Human Behavior in the Age of AI](pages/urban.html)
 
-## Spring 2026 Schedule
 
-- 2 February 2026 — [Dr. Christian Geiser](https://christiangeiser.com/)
-- 23 February 2026 - [Dr. Denny Borsboom](https://dennyborsboom.com/)
-- 23 March 2026 — [Dr. Qiwei He](https://gufaculty360.georgetown.edu/s/contact/0031Q00002UXuaSQAT/qiwei-he)
-- 20 April 2026 — [Dr. Christian Ringle](https://www.tuhh.de/mds/team/prof-dr-c-m-ringle)
 
 ## Announcements
 
