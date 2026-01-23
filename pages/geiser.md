@@ -2,7 +2,9 @@
 
 ![Dr. Christian Geiser](https://i0.wp.com/christiangeiser.com/wp-content/uploads/2024/08/Social-Media-Post-12.png?w=1200&ssl=1){: width="150" }
 
-Dr. Christian Geiser \ Director of Education \ QuantFish
+Dr. Christian Geiser \\ 
+Director of Education \\ 
+QuantFish
 
 
 # Title
