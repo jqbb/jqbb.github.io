@@ -24,7 +24,9 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 - 2 February 2026 \
 [Dr. Christian Geiser](https://christiangeiser.com/) \
 [A Conversation with Dr. Christian Geiser on his journey as a quantitative psychologist](pages/geiser.html)
-- 23 February 2026 - [Dr. Denny Borsboom](https://dennyborsboom.com/)
+- 23 February 2026 \
+[Dr. Denny Borsboom](https://dennyborsboom.com/) \
+[Theory Construction Methodology](pages/borsboom.html)
 - 23 March 2026 — [Dr. Qiwei He](https://gufaculty360.georgetown.edu/s/contact/0031Q00002UXuaSQAT/qiwei-he)
 - 20 April 2026 — [Dr. Christian Ringle](https://www.tuhh.de/mds/team/prof-dr-c-m-ringle)
 
