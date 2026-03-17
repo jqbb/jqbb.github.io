@@ -27,8 +27,10 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 - 23 February 2026 \
 [Dr. Denny Borsboom](https://dennyborsboom.com/) \
 [Theory Construction Methodology](pages/borsboom.html)
-- 23 March 2026 — [Dr. Qiwei He](https://gufaculty360.georgetown.edu/s/contact/0031Q00002UXuaSQAT/qiwei-he)
-- 20 April 2026 — [Dr. Christian Ringle](https://www.tuhh.de/mds/team/prof-dr-c-m-ringle)
+- 23 March 2026 \
+[Dr. Qiwei He](https://gufaculty360.georgetown.edu/s/contact/0031Q00002UXuaSQAT/qiwei-he) \
+[Proximity Measures in Sequence Mining for Process Data in Large-Scale Assessments](pages/qiweihe.html)
+- TBA — [Dr. Christian Ringle](https://www.tuhh.de/mds/team/prof-dr-c-m-ringle)
 
 ## Fall 2025 talks
 
