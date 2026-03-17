@@ -1,5 +1,7 @@
 # Speaker
 
+![Qiwei He](https://gu360.file.force.com/servlet/servlet.ImageServer?id=015Hp000005x1sPIAQ&oid=00D36000000rQpzEAE){: width="150" }
+
 Dr. Qiwei (Britt) He\\
 Provost's Distinguished Associate Professor\\
 Data Science and Analytics Program, Graduate School of Arts and Sciences\\
