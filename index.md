@@ -16,8 +16,21 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 
 <p><a href="https://groups.google.com/g/jqbb">Please join our mailing list/Google Group to receive JQBB information.</a> Please brief introduce yourself for verification purpose. Email us directly if you don't have a Google account.</p>
 
+## Fall 2026 Schedule
 
-## Spring 2026 Schedule
+- 14 September 2026 — Christian Ringle (organized by OSU)
+- 5 October 2026 — Introduction to labs at Oklahoma University (organized by OU)
+- 2 November 2026 — An interview with Ken Bollen (organized by UNC)
+- 30 November 2026 — TBD (organized by UMD)
+
+## Spring 2027 Schedule
+
+- 1 February 2027 — An interview with Debbi Bandalos (organized by UNC)
+- 1 March 2027 — Alex Christensen (organized by Vanderbilt)
+- 22 March 2027 — TBD
+- 19 April 2027 — Steve Reise (organized by OSU)
+  
+## Spring 2026 talks
 
 <b>Mondays from 12:30-1:30pm ET</b>
 
