@@ -4,7 +4,18 @@
 started out as an initiative between two graduate quantitative methods programs
 during the start of COVID-19 in Fall 2020. Currently, this initiative has grown
 to include about half a dozen quantitative methods graduate programs across
-North America. The longstanding <b>purpose</b> of the joint brownbag is to <b>facilitate
+North America. As of 2026, participating universities include The Ohio State University, University of North Carolina at Chapel Hill,
+University of Maryland, College Park,
+University of Notre Dame,
+Vanderbilt University,
+University of Oklahoma,
+Wake Forest University,
+Arizona State University, 
+University of California, Davis,
+York University, and
+University of South Carolina.
+  
+The longstanding <b>purpose</b> of the joint brownbag is to <b>facilitate
 connection and discussion among students and faculty in graduate programs on
 topics of interest to a breadth of research topics in quantitative methodology</b>.
 Quantitative methodologists develop theory, methods, and techniques focused on
@@ -23,13 +34,13 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 [A Multi-Copula Approach to Deal with Endogeneity in Regression Models](pages/ringle.html)
 - 5 October 2026 — Introduction to labs at Oklahoma University (organized by OU)
 - 2 November 2026 — An interview with Ken Bollen (organized by UNC)
-- 30 November 2026 — TBD (organized by UMD)
+- 30 November 2026 — Alumni discussing experience with AI in practice (organized by UMD)
 
 ## Spring 2027 Schedule
 
 - 1 February 2027 — An interview with Debbi Bandalos (organized by UNC)
 - 1 March 2027 — Alex Christensen (organized by Vanderbilt)
-- 22 March 2027 — TBD
+- 22 March 2027 — A Conversation with Notre Dame Quantitative Psychology Graduates in Industry (organized by ND)
 - 19 April 2027 — Steve Reise (organized by OSU)
   
 ## Spring 2026 talks
@@ -45,7 +56,6 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 - 23 March 2026 \
 [Dr. Qiwei He](https://gufaculty360.georgetown.edu/s/contact/0031Q00002UXuaSQAT/qiwei-he) \
 [Proximity Measures in Sequence Mining for Process Data in Large-Scale Assessments](pages/qiweihe.html)
-- TBA — [Dr. Christian Ringle](https://www.tuhh.de/mds/team/prof-dr-c-m-ringle)
 
 ## Fall 2025 talks
 
