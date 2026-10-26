@@ -34,7 +34,9 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 [A Multi-Copula Approach to Deal with Endogeneity in Regression Models](pages/ringle.html)
 - 5 October 2026 \
 [Introduction to labs at Oklahoma University (organized by OU)](pages/ou.html)
-- 2 November 2026 — An interview with Ken Bollen (organized by UNC)
+- 2 November 2026 \
+[Kenneth Bollen](https://bollen.web.unc.edu/) \
+[A Conversation with Ken Bollen](pages/bollen.html)
 - 30 November 2026 — Alumni discussing experience with AI in practice (organized by UMD)
 
 ## Spring 2027 Schedule
