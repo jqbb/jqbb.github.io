@@ -37,7 +37,8 @@ meetings are over zoom and held on <b>Mondays from 12:30-1:30pm ET</b>.</p>
 - 2 November 2026 \
 [Kenneth Bollen](https://bollen.web.unc.edu/) \
 [A Conversation with Ken Bollen](pages/bollen.html)
-- 30 November 2026 — Alumni discussing experience with AI in practice (organized by UMD)
+- 30 November 2026 \
+[Alumni discussing experience with AI in practice (organized by UMD)](pages/ai.html)
 
 ## Spring 2027 Schedule
 
